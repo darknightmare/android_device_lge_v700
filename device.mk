@@ -1,4 +1,4 @@
-LOCAL_PATH := device/xiaomi/armani
+LOCAL_PATH := device/lge/v700
 
 ifeq ($(TARGET_PREBUILT_KERNEL),)
 	LOCAL_KERNEL := device/lge/v700/kernel
